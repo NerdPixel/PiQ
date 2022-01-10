@@ -1,0 +1,2190 @@
+DEBUG:root:filenames: 
+DEBUG:root:./images_joh/edit/all/portrait_3.jpeg
+DEBUG:root:./images_joh/edit/all/art_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_7.jpeg
+DEBUG:root:./images_joh/edit/all/nature_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_10.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_9.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_7.jpeg
+DEBUG:root:./images_joh/edit/all/art_1.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_8.jpeg
+DEBUG:root:./images_joh/edit/all/nature_4.jpeg
+DEBUG:root:./images_joh/edit/all/art_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_7.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_6.jpeg
+DEBUG:root:./images_joh/edit/all/art_3.jpeg
+DEBUG:root:./images_joh/edit/all/nature_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_2.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_8.jpeg
+DEBUG:root:./images_joh/edit/all/art_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_8.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_9.jpeg
+DEBUG:root:./images_joh/edit/all/art_5.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_9.jpeg
+DEBUG:root:./images_joh/edit/all/nature_3.jpeg
+DEBUG:root:pre: 1
+DEBUG:root:sigmas: [20, 12, 7, 4]
+DEBUG:root:sigmas_str: 20_12_7_4
+DEBUG:root:generating jpgs...
+DEBUG:root:portrait_3.jpeg
+DEBUG:root:portrait_3_r.jpeg
+DEBUG:root:art_6.jpeg
+DEBUG:root:art_6_r.jpeg
+DEBUG:root:nature_1.jpeg
+DEBUG:root:nature_1_r.jpeg
+DEBUG:root:art_7.jpeg
+DEBUG:root:art_7_r.jpeg
+DEBUG:root:nature_10.jpeg
+DEBUG:root:nature_10_r.jpeg
+DEBUG:root:art_10.jpeg
+DEBUG:root:art_10_r.jpeg
+DEBUG:root:portrait_2.jpeg
+DEBUG:root:portrait_2_r.jpeg
+DEBUG:root:portrait_9.jpeg
+DEBUG:root:portrait_9_r.jpeg
+DEBUG:root:portrait_5.jpeg
+DEBUG:root:portrait_5_r.jpeg
+DEBUG:root:nature_6.jpeg
+DEBUG:root:nature_6_r.jpeg
+DEBUG:root:nature_7.jpeg
+DEBUG:root:nature_7_r.jpeg
+DEBUG:root:art_1.jpeg
+DEBUG:root:art_1_r.jpeg
+DEBUG:root:portrait_4.jpeg
+DEBUG:root:portrait_4_r.jpeg
+DEBUG:root:portrait_8.jpeg
+DEBUG:root:portrait_8_r.jpeg
+DEBUG:root:nature_4.jpeg
+DEBUG:root:nature_4_r.jpeg
+DEBUG:root:art_2.jpeg
+DEBUG:root:art_2_r.jpeg
+DEBUG:root:portrait_7.jpeg
+DEBUG:root:portrait_7_r.jpeg
+DEBUG:root:portrait_6.jpeg
+DEBUG:root:portrait_6_r.jpeg
+DEBUG:root:art_3.jpeg
+DEBUG:root:art_3_r.jpeg
+DEBUG:root:nature_5.jpeg
+DEBUG:root:nature_5_r.jpeg
+DEBUG:root:nature_2.jpeg
+DEBUG:root:nature_2_r.jpeg
+DEBUG:root:nautre_8.jpeg
+DEBUG:root:nautre_8_r.jpeg
+DEBUG:root:art_4.jpeg
+DEBUG:root:art_4_r.jpeg
+DEBUG:root:portrait_1.jpeg
+DEBUG:root:portrait_1_r.jpeg
+DEBUG:root:art_8.jpeg
+DEBUG:root:art_8_r.jpeg
+DEBUG:root:portrait_10.jpeg
+DEBUG:root:portrait_10_r.jpeg
+DEBUG:root:art_9.jpeg
+DEBUG:root:art_9_r.jpeg
+DEBUG:root:art_5.jpeg
+DEBUG:root:art_5_r.jpeg
+DEBUG:root:nautre_9.jpeg
+DEBUG:root:nautre_9_r.jpeg
+DEBUG:root:nature_3.jpeg
+DEBUG:root:nature_3_r.jpeg
+DEBUG:root:portrait_3.jpeg
+DEBUG:root:portrait_3_r.jpeg
+DEBUG:root:art_6.jpeg
+DEBUG:root:art_6_r.jpeg
+DEBUG:root:nature_1.jpeg
+DEBUG:root:nature_1_r.jpeg
+DEBUG:root:art_7.jpeg
+DEBUG:root:art_7_r.jpeg
+DEBUG:root:nature_10.jpeg
+DEBUG:root:nature_10_r.jpeg
+DEBUG:root:art_10.jpeg
+DEBUG:root:art_10_r.jpeg
+DEBUG:root:portrait_2.jpeg
+DEBUG:root:portrait_2_r.jpeg
+DEBUG:root:portrait_9.jpeg
+DEBUG:root:portrait_9_r.jpeg
+DEBUG:root:portrait_5.jpeg
+DEBUG:root:portrait_5_r.jpeg
+DEBUG:root:nature_6.jpeg
+DEBUG:root:nature_6_r.jpeg
+DEBUG:root:nature_7.jpeg
+DEBUG:root:nature_7_r.jpeg
+DEBUG:root:art_1.jpeg
+DEBUG:root:art_1_r.jpeg
+DEBUG:root:portrait_4.jpeg
+DEBUG:root:portrait_4_r.jpeg
+DEBUG:root:portrait_8.jpeg
+DEBUG:root:portrait_8_r.jpeg
+DEBUG:root:nature_4.jpeg
+DEBUG:root:nature_4_r.jpeg
+DEBUG:root:art_2.jpeg
+DEBUG:root:art_2_r.jpeg
+DEBUG:root:portrait_7.jpeg
+DEBUG:root:portrait_7_r.jpeg
+DEBUG:root:portrait_6.jpeg
+DEBUG:root:portrait_6_r.jpeg
+DEBUG:root:art_3.jpeg
+DEBUG:root:art_3_r.jpeg
+DEBUG:root:nature_5.jpeg
+DEBUG:root:nature_5_r.jpeg
+DEBUG:root:nature_2.jpeg
+DEBUG:root:nature_2_r.jpeg
+DEBUG:root:nautre_8.jpeg
+DEBUG:root:nautre_8_r.jpeg
+DEBUG:root:art_4.jpeg
+DEBUG:root:art_4_r.jpeg
+DEBUG:root:portrait_1.jpeg
+DEBUG:root:portrait_1_r.jpeg
+DEBUG:root:art_8.jpeg
+DEBUG:root:art_8_r.jpeg
+DEBUG:root:portrait_10.jpeg
+DEBUG:root:portrait_10_r.jpeg
+DEBUG:root:art_9.jpeg
+DEBUG:root:art_9_r.jpeg
+DEBUG:root:art_5.jpeg
+DEBUG:root:art_5_r.jpeg
+DEBUG:root:nautre_9.jpeg
+DEBUG:root:nautre_9_r.jpeg
+DEBUG:root:nature_3.jpeg
+DEBUG:root:nature_3_r.jpeg
+DEBUG:root:portrait_3.jpeg
+DEBUG:root:portrait_3_r.jpeg
+DEBUG:root:art_6.jpeg
+DEBUG:root:art_6_r.jpeg
+DEBUG:root:nature_1.jpeg
+DEBUG:root:nature_1_r.jpeg
+DEBUG:root:art_7.jpeg
+DEBUG:root:art_7_r.jpeg
+DEBUG:root:nature_10.jpeg
+DEBUG:root:nature_10_r.jpeg
+DEBUG:root:art_10.jpeg
+DEBUG:root:art_10_r.jpeg
+DEBUG:root:portrait_2.jpeg
+DEBUG:root:portrait_2_r.jpeg
+DEBUG:root:portrait_9.jpeg
+DEBUG:root:portrait_9_r.jpeg
+DEBUG:root:portrait_5.jpeg
+DEBUG:root:portrait_5_r.jpeg
+DEBUG:root:nature_6.jpeg
+DEBUG:root:nature_6_r.jpeg
+DEBUG:root:nature_7.jpeg
+DEBUG:root:nature_7_r.jpeg
+DEBUG:root:art_1.jpeg
+DEBUG:root:art_1_r.jpeg
+DEBUG:root:portrait_4.jpeg
+DEBUG:root:portrait_4_r.jpeg
+DEBUG:root:portrait_8.jpeg
+DEBUG:root:portrait_8_r.jpeg
+DEBUG:root:nature_4.jpeg
+DEBUG:root:nature_4_r.jpeg
+DEBUG:root:art_2.jpeg
+DEBUG:root:art_2_r.jpeg
+DEBUG:root:portrait_7.jpeg
+DEBUG:root:portrait_7_r.jpeg
+DEBUG:root:portrait_6.jpeg
+DEBUG:root:portrait_6_r.jpeg
+DEBUG:root:art_3.jpeg
+DEBUG:root:art_3_r.jpeg
+DEBUG:root:nature_5.jpeg
+DEBUG:root:nature_5_r.jpeg
+DEBUG:root:nature_2.jpeg
+DEBUG:root:nature_2_r.jpeg
+DEBUG:root:nautre_8.jpeg
+DEBUG:root:nautre_8_r.jpeg
+DEBUG:root:art_4.jpeg
+DEBUG:root:art_4_r.jpeg
+DEBUG:root:portrait_1.jpeg
+DEBUG:root:portrait_1_r.jpeg
+DEBUG:root:art_8.jpeg
+DEBUG:root:art_8_r.jpeg
+DEBUG:root:portrait_10.jpeg
+DEBUG:root:filenames: 
+DEBUG:root:./images_joh/edit/all/portrait_3.jpeg
+DEBUG:root:./images_joh/edit/all/art_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_7.jpeg
+DEBUG:root:./images_joh/edit/all/nature_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_10.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_9.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_7.jpeg
+DEBUG:root:./images_joh/edit/all/art_1.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_8.jpeg
+DEBUG:root:./images_joh/edit/all/nature_4.jpeg
+DEBUG:root:./images_joh/edit/all/art_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_7.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_6.jpeg
+DEBUG:root:./images_joh/edit/all/art_3.jpeg
+DEBUG:root:./images_joh/edit/all/nature_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_2.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_8.jpeg
+DEBUG:root:./images_joh/edit/all/art_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_8.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_9.jpeg
+DEBUG:root:./images_joh/edit/all/art_5.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_9.jpeg
+DEBUG:root:./images_joh/edit/all/nature_3.jpeg
+DEBUG:root:pre: 1
+DEBUG:root:sigmas: [20, 12, 7, 4]
+DEBUG:root:sigmas_str: 20_12_7_4
+DEBUG:root:generating jpgs...
+DEBUG:root:generate portrait_3.jpeg with quality 20
+DEBUG:root:generate portrait_3_r.jpeg with quality 20
+DEBUG:root:generate art_6.jpeg with quality 20
+DEBUG:root:generate art_6_r.jpeg with quality 20
+DEBUG:root:generate nature_1.jpeg with quality 20
+DEBUG:root:generate nature_1_r.jpeg with quality 20
+DEBUG:root:generate art_7.jpeg with quality 20
+DEBUG:root:generate art_7_r.jpeg with quality 20
+DEBUG:root:generate nature_10.jpeg with quality 20
+DEBUG:root:generate nature_10_r.jpeg with quality 20
+DEBUG:root:generate art_10.jpeg with quality 20
+DEBUG:root:generate art_10_r.jpeg with quality 20
+DEBUG:root:generate portrait_2.jpeg with quality 20
+DEBUG:root:generate portrait_2_r.jpeg with quality 20
+DEBUG:root:generate portrait_9.jpeg with quality 20
+DEBUG:root:generate portrait_9_r.jpeg with quality 20
+DEBUG:root:generate portrait_5.jpeg with quality 20
+DEBUG:root:generate portrait_5_r.jpeg with quality 20
+DEBUG:root:generate nature_6.jpeg with quality 20
+DEBUG:root:generate nature_6_r.jpeg with quality 20
+DEBUG:root:generate nature_7.jpeg with quality 20
+DEBUG:root:generate nature_7_r.jpeg with quality 20
+DEBUG:root:generate art_1.jpeg with quality 20
+DEBUG:root:generate art_1_r.jpeg with quality 20
+DEBUG:root:generate portrait_4.jpeg with quality 20
+DEBUG:root:generate portrait_4_r.jpeg with quality 20
+DEBUG:root:generate portrait_8.jpeg with quality 20
+DEBUG:root:generate portrait_8_r.jpeg with quality 20
+DEBUG:root:generate nature_4.jpeg with quality 20
+DEBUG:root:generate nature_4_r.jpeg with quality 20
+DEBUG:root:generate art_2.jpeg with quality 20
+DEBUG:root:generate art_2_r.jpeg with quality 20
+DEBUG:root:generate portrait_7.jpeg with quality 20
+DEBUG:root:generate portrait_7_r.jpeg with quality 20
+DEBUG:root:generate portrait_6.jpeg with quality 20
+DEBUG:root:generate portrait_6_r.jpeg with quality 20
+DEBUG:root:generate art_3.jpeg with quality 20
+DEBUG:root:generate art_3_r.jpeg with quality 20
+DEBUG:root:generate nature_5.jpeg with quality 20
+DEBUG:root:generate nature_5_r.jpeg with quality 20
+DEBUG:root:generate nature_2.jpeg with quality 20
+DEBUG:root:generate nature_2_r.jpeg with quality 20
+DEBUG:root:generate nautre_8.jpeg with quality 20
+DEBUG:root:generate nautre_8_r.jpeg with quality 20
+DEBUG:root:generate art_4.jpeg with quality 20
+DEBUG:root:generate art_4_r.jpeg with quality 20
+DEBUG:root:generate portrait_1.jpeg with quality 20
+DEBUG:root:generate portrait_1_r.jpeg with quality 20
+DEBUG:root:generate art_8.jpeg with quality 20
+DEBUG:root:generate art_8_r.jpeg with quality 20
+DEBUG:root:generate portrait_10.jpeg with quality 20
+DEBUG:root:generate portrait_10_r.jpeg with quality 20
+DEBUG:root:generate art_9.jpeg with quality 20
+DEBUG:root:generate art_9_r.jpeg with quality 20
+DEBUG:root:generate art_5.jpeg with quality 20
+DEBUG:root:generate art_5_r.jpeg with quality 20
+DEBUG:root:generate nautre_9.jpeg with quality 20
+DEBUG:root:generate nautre_9_r.jpeg with quality 20
+DEBUG:root:generate nature_3.jpeg with quality 20
+DEBUG:root:generate nature_3_r.jpeg with quality 20
+DEBUG:root:generate portrait_3.jpeg with quality 12
+DEBUG:root:generate portrait_3_r.jpeg with quality 12
+DEBUG:root:generate art_6.jpeg with quality 12
+DEBUG:root:generate art_6_r.jpeg with quality 12
+DEBUG:root:filenames: 
+DEBUG:root:./images_joh/edit/all/portrait_3.jpeg
+DEBUG:root:./images_joh/edit/all/art_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_7.jpeg
+DEBUG:root:./images_joh/edit/all/nature_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_10.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_9.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_7.jpeg
+DEBUG:root:./images_joh/edit/all/art_1.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_8.jpeg
+DEBUG:root:./images_joh/edit/all/nature_4.jpeg
+DEBUG:root:./images_joh/edit/all/art_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_7.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_6.jpeg
+DEBUG:root:./images_joh/edit/all/art_3.jpeg
+DEBUG:root:./images_joh/edit/all/nature_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_2.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_8.jpeg
+DEBUG:root:./images_joh/edit/all/art_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_8.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_9.jpeg
+DEBUG:root:./images_joh/edit/all/art_5.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_9.jpeg
+DEBUG:root:./images_joh/edit/all/nature_3.jpeg
+DEBUG:root:read images #30
+DEBUG:root:pre: 1
+DEBUG:root:sigmas: [20, 12, 7, 4]
+DEBUG:root:sigmas_str: 20_12_7_4
+DEBUG:root:generating jpgs...
+DEBUG:root:generate portrait_3.jpeg with quality 20
+DEBUG:root:source file portrait_3.jpeg -> dest file portrait_3_20.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 20
+DEBUG:root:source file portrait_3_r.jpeg -> dest file portrait_3_r_20.jpeg
+DEBUG:root:generate art_6.jpeg with quality 20
+DEBUG:root:source file art_6.jpeg -> dest file art_6_20.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 20
+DEBUG:root:source file art_6_r.jpeg -> dest file art_6_r_20.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 20
+DEBUG:root:source file nature_1.jpeg -> dest file nature_1_20.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 20
+DEBUG:root:source file nature_1_r.jpeg -> dest file nature_1_r_20.jpeg
+DEBUG:root:generate art_7.jpeg with quality 20
+DEBUG:root:source file art_7.jpeg -> dest file art_7_20.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 20
+DEBUG:root:source file art_7_r.jpeg -> dest file art_7_r_20.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 20
+DEBUG:root:source file nature_10.jpeg -> dest file nature_10_20.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 20
+DEBUG:root:source file nature_10_r.jpeg -> dest file nature_10_r_20.jpeg
+DEBUG:root:generate art_10.jpeg with quality 20
+DEBUG:root:source file art_10.jpeg -> dest file art_10_20.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 20
+DEBUG:root:source file art_10_r.jpeg -> dest file art_10_r_20.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 20
+DEBUG:root:source file portrait_2.jpeg -> dest file portrait_2_20.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 20
+DEBUG:root:source file portrait_2_r.jpeg -> dest file portrait_2_r_20.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 20
+DEBUG:root:source file portrait_9.jpeg -> dest file portrait_9_20.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 20
+DEBUG:root:source file portrait_9_r.jpeg -> dest file portrait_9_r_20.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 20
+DEBUG:root:source file portrait_5.jpeg -> dest file portrait_5_20.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 20
+DEBUG:root:source file portrait_5_r.jpeg -> dest file portrait_5_r_20.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 20
+DEBUG:root:source file nature_6.jpeg -> dest file nature_6_20.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 20
+DEBUG:root:source file nature_6_r.jpeg -> dest file nature_6_r_20.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 20
+DEBUG:root:source file nature_7.jpeg -> dest file nature_7_20.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 20
+DEBUG:root:source file nature_7_r.jpeg -> dest file nature_7_r_20.jpeg
+DEBUG:root:generate art_1.jpeg with quality 20
+DEBUG:root:source file art_1.jpeg -> dest file art_1_20.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 20
+DEBUG:root:source file art_1_r.jpeg -> dest file art_1_r_20.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 20
+DEBUG:root:source file portrait_4.jpeg -> dest file portrait_4_20.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 20
+DEBUG:root:source file portrait_4_r.jpeg -> dest file portrait_4_r_20.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 20
+DEBUG:root:source file portrait_8.jpeg -> dest file portrait_8_20.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 20
+DEBUG:root:source file portrait_8_r.jpeg -> dest file portrait_8_r_20.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 20
+DEBUG:root:source file nature_4.jpeg -> dest file nature_4_20.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 20
+DEBUG:root:source file nature_4_r.jpeg -> dest file nature_4_r_20.jpeg
+DEBUG:root:generate art_2.jpeg with quality 20
+DEBUG:root:source file art_2.jpeg -> dest file art_2_20.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 20
+DEBUG:root:source file art_2_r.jpeg -> dest file art_2_r_20.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 20
+DEBUG:root:source file portrait_7.jpeg -> dest file portrait_7_20.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 20
+DEBUG:root:source file portrait_7_r.jpeg -> dest file portrait_7_r_20.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 20
+DEBUG:root:source file portrait_6.jpeg -> dest file portrait_6_20.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 20
+DEBUG:root:source file portrait_6_r.jpeg -> dest file portrait_6_r_20.jpeg
+DEBUG:root:generate art_3.jpeg with quality 20
+DEBUG:root:source file art_3.jpeg -> dest file art_3_20.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 20
+DEBUG:root:source file art_3_r.jpeg -> dest file art_3_r_20.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 20
+DEBUG:root:source file nature_5.jpeg -> dest file nature_5_20.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 20
+DEBUG:root:source file nature_5_r.jpeg -> dest file nature_5_r_20.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 20
+DEBUG:root:source file nature_2.jpeg -> dest file nature_2_20.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 20
+DEBUG:root:source file nature_2_r.jpeg -> dest file nature_2_r_20.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 20
+DEBUG:root:source file nautre_8.jpeg -> dest file nautre_8_20.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 20
+DEBUG:root:source file nautre_8_r.jpeg -> dest file nautre_8_r_20.jpeg
+DEBUG:root:generate art_4.jpeg with quality 20
+DEBUG:root:source file art_4.jpeg -> dest file art_4_20.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 20
+DEBUG:root:source file art_4_r.jpeg -> dest file art_4_r_20.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 20
+DEBUG:root:source file portrait_1.jpeg -> dest file portrait_1_20.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 20
+DEBUG:root:source file portrait_1_r.jpeg -> dest file portrait_1_r_20.jpeg
+DEBUG:root:generate art_8.jpeg with quality 20
+DEBUG:root:source file art_8.jpeg -> dest file art_8_20.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 20
+DEBUG:root:source file art_8_r.jpeg -> dest file art_8_r_20.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 20
+DEBUG:root:source file portrait_10.jpeg -> dest file portrait_10_20.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 20
+DEBUG:root:source file portrait_10_r.jpeg -> dest file portrait_10_r_20.jpeg
+DEBUG:root:generate art_9.jpeg with quality 20
+DEBUG:root:source file art_9.jpeg -> dest file art_9_20.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 20
+DEBUG:root:source file art_9_r.jpeg -> dest file art_9_r_20.jpeg
+DEBUG:root:generate art_5.jpeg with quality 20
+DEBUG:root:source file art_5.jpeg -> dest file art_5_20.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 20
+DEBUG:root:source file art_5_r.jpeg -> dest file art_5_r_20.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 20
+DEBUG:root:source file nautre_9.jpeg -> dest file nautre_9_20.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 20
+DEBUG:root:source file nautre_9_r.jpeg -> dest file nautre_9_r_20.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 20
+DEBUG:root:source file nature_3.jpeg -> dest file nature_3_20.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 20
+DEBUG:root:source file nature_3_r.jpeg -> dest file nature_3_r_20.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 12
+DEBUG:root:source file portrait_3.jpeg -> dest file portrait_3_12.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 12
+DEBUG:root:source file portrait_3_r.jpeg -> dest file portrait_3_r_12.jpeg
+DEBUG:root:generate art_6.jpeg with quality 12
+DEBUG:root:source file art_6.jpeg -> dest file art_6_12.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 12
+DEBUG:root:source file art_6_r.jpeg -> dest file art_6_r_12.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 12
+DEBUG:root:source file nature_1.jpeg -> dest file nature_1_12.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 12
+DEBUG:root:source file nature_1_r.jpeg -> dest file nature_1_r_12.jpeg
+DEBUG:root:generate art_7.jpeg with quality 12
+DEBUG:root:source file art_7.jpeg -> dest file art_7_12.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 12
+DEBUG:root:source file art_7_r.jpeg -> dest file art_7_r_12.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 12
+DEBUG:root:source file nature_10.jpeg -> dest file nature_10_12.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 12
+DEBUG:root:source file nature_10_r.jpeg -> dest file nature_10_r_12.jpeg
+DEBUG:root:generate art_10.jpeg with quality 12
+DEBUG:root:source file art_10.jpeg -> dest file art_10_12.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 12
+DEBUG:root:source file art_10_r.jpeg -> dest file art_10_r_12.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 12
+DEBUG:root:source file portrait_2.jpeg -> dest file portrait_2_12.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 12
+DEBUG:root:source file portrait_2_r.jpeg -> dest file portrait_2_r_12.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 12
+DEBUG:root:source file portrait_9.jpeg -> dest file portrait_9_12.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 12
+DEBUG:root:source file portrait_9_r.jpeg -> dest file portrait_9_r_12.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 12
+DEBUG:root:source file portrait_5.jpeg -> dest file portrait_5_12.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 12
+DEBUG:root:source file portrait_5_r.jpeg -> dest file portrait_5_r_12.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 12
+DEBUG:root:source file nature_6.jpeg -> dest file nature_6_12.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 12
+DEBUG:root:source file nature_6_r.jpeg -> dest file nature_6_r_12.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 12
+DEBUG:root:source file nature_7.jpeg -> dest file nature_7_12.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 12
+DEBUG:root:source file nature_7_r.jpeg -> dest file nature_7_r_12.jpeg
+DEBUG:root:generate art_1.jpeg with quality 12
+DEBUG:root:source file art_1.jpeg -> dest file art_1_12.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 12
+DEBUG:root:source file art_1_r.jpeg -> dest file art_1_r_12.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 12
+DEBUG:root:source file portrait_4.jpeg -> dest file portrait_4_12.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 12
+DEBUG:root:source file portrait_4_r.jpeg -> dest file portrait_4_r_12.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 12
+DEBUG:root:source file portrait_8.jpeg -> dest file portrait_8_12.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 12
+DEBUG:root:source file portrait_8_r.jpeg -> dest file portrait_8_r_12.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 12
+DEBUG:root:source file nature_4.jpeg -> dest file nature_4_12.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 12
+DEBUG:root:source file nature_4_r.jpeg -> dest file nature_4_r_12.jpeg
+DEBUG:root:generate art_2.jpeg with quality 12
+DEBUG:root:source file art_2.jpeg -> dest file art_2_12.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 12
+DEBUG:root:source file art_2_r.jpeg -> dest file art_2_r_12.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 12
+DEBUG:root:source file portrait_7.jpeg -> dest file portrait_7_12.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 12
+DEBUG:root:source file portrait_7_r.jpeg -> dest file portrait_7_r_12.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 12
+DEBUG:root:source file portrait_6.jpeg -> dest file portrait_6_12.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 12
+DEBUG:root:source file portrait_6_r.jpeg -> dest file portrait_6_r_12.jpeg
+DEBUG:root:generate art_3.jpeg with quality 12
+DEBUG:root:source file art_3.jpeg -> dest file art_3_12.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 12
+DEBUG:root:source file art_3_r.jpeg -> dest file art_3_r_12.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 12
+DEBUG:root:source file nature_5.jpeg -> dest file nature_5_12.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 12
+DEBUG:root:source file nature_5_r.jpeg -> dest file nature_5_r_12.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 12
+DEBUG:root:source file nature_2.jpeg -> dest file nature_2_12.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 12
+DEBUG:root:source file nature_2_r.jpeg -> dest file nature_2_r_12.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 12
+DEBUG:root:source file nautre_8.jpeg -> dest file nautre_8_12.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 12
+DEBUG:root:source file nautre_8_r.jpeg -> dest file nautre_8_r_12.jpeg
+DEBUG:root:generate art_4.jpeg with quality 12
+DEBUG:root:source file art_4.jpeg -> dest file art_4_12.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 12
+DEBUG:root:source file art_4_r.jpeg -> dest file art_4_r_12.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 12
+DEBUG:root:source file portrait_1.jpeg -> dest file portrait_1_12.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 12
+DEBUG:root:source file portrait_1_r.jpeg -> dest file portrait_1_r_12.jpeg
+DEBUG:root:generate art_8.jpeg with quality 12
+DEBUG:root:source file art_8.jpeg -> dest file art_8_12.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 12
+DEBUG:root:source file art_8_r.jpeg -> dest file art_8_r_12.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 12
+DEBUG:root:source file portrait_10.jpeg -> dest file portrait_10_12.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 12
+DEBUG:root:source file portrait_10_r.jpeg -> dest file portrait_10_r_12.jpeg
+DEBUG:root:generate art_9.jpeg with quality 12
+DEBUG:root:source file art_9.jpeg -> dest file art_9_12.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 12
+DEBUG:root:source file art_9_r.jpeg -> dest file art_9_r_12.jpeg
+DEBUG:root:generate art_5.jpeg with quality 12
+DEBUG:root:source file art_5.jpeg -> dest file art_5_12.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 12
+DEBUG:root:source file art_5_r.jpeg -> dest file art_5_r_12.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 12
+DEBUG:root:source file nautre_9.jpeg -> dest file nautre_9_12.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 12
+DEBUG:root:source file nautre_9_r.jpeg -> dest file nautre_9_r_12.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 12
+DEBUG:root:source file nature_3.jpeg -> dest file nature_3_12.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 12
+DEBUG:root:source file nature_3_r.jpeg -> dest file nature_3_r_12.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 7
+DEBUG:root:source file portrait_3.jpeg -> dest file portrait_3_7.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 7
+DEBUG:root:source file portrait_3_r.jpeg -> dest file portrait_3_r_7.jpeg
+DEBUG:root:generate art_6.jpeg with quality 7
+DEBUG:root:source file art_6.jpeg -> dest file art_6_7.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 7
+DEBUG:root:source file art_6_r.jpeg -> dest file art_6_r_7.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 7
+DEBUG:root:source file nature_1.jpeg -> dest file nature_1_7.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 7
+DEBUG:root:source file nature_1_r.jpeg -> dest file nature_1_r_7.jpeg
+DEBUG:root:generate art_7.jpeg with quality 7
+DEBUG:root:source file art_7.jpeg -> dest file art_7_7.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 7
+DEBUG:root:source file art_7_r.jpeg -> dest file art_7_r_7.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 7
+DEBUG:root:source file nature_10.jpeg -> dest file nature_10_7.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 7
+DEBUG:root:source file nature_10_r.jpeg -> dest file nature_10_r_7.jpeg
+DEBUG:root:generate art_10.jpeg with quality 7
+DEBUG:root:source file art_10.jpeg -> dest file art_10_7.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 7
+DEBUG:root:source file art_10_r.jpeg -> dest file art_10_r_7.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 7
+DEBUG:root:source file portrait_2.jpeg -> dest file portrait_2_7.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 7
+DEBUG:root:source file portrait_2_r.jpeg -> dest file portrait_2_r_7.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 7
+DEBUG:root:source file portrait_9.jpeg -> dest file portrait_9_7.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 7
+DEBUG:root:source file portrait_9_r.jpeg -> dest file portrait_9_r_7.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 7
+DEBUG:root:source file portrait_5.jpeg -> dest file portrait_5_7.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 7
+DEBUG:root:source file portrait_5_r.jpeg -> dest file portrait_5_r_7.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 7
+DEBUG:root:source file nature_6.jpeg -> dest file nature_6_7.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 7
+DEBUG:root:source file nature_6_r.jpeg -> dest file nature_6_r_7.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 7
+DEBUG:root:source file nature_7.jpeg -> dest file nature_7_7.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 7
+DEBUG:root:source file nature_7_r.jpeg -> dest file nature_7_r_7.jpeg
+DEBUG:root:generate art_1.jpeg with quality 7
+DEBUG:root:source file art_1.jpeg -> dest file art_1_7.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 7
+DEBUG:root:source file art_1_r.jpeg -> dest file art_1_r_7.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 7
+DEBUG:root:source file portrait_4.jpeg -> dest file portrait_4_7.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 7
+DEBUG:root:source file portrait_4_r.jpeg -> dest file portrait_4_r_7.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 7
+DEBUG:root:source file portrait_8.jpeg -> dest file portrait_8_7.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 7
+DEBUG:root:source file portrait_8_r.jpeg -> dest file portrait_8_r_7.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 7
+DEBUG:root:source file nature_4.jpeg -> dest file nature_4_7.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 7
+DEBUG:root:source file nature_4_r.jpeg -> dest file nature_4_r_7.jpeg
+DEBUG:root:generate art_2.jpeg with quality 7
+DEBUG:root:source file art_2.jpeg -> dest file art_2_7.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 7
+DEBUG:root:source file art_2_r.jpeg -> dest file art_2_r_7.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 7
+DEBUG:root:source file portrait_7.jpeg -> dest file portrait_7_7.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 7
+DEBUG:root:source file portrait_7_r.jpeg -> dest file portrait_7_r_7.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 7
+DEBUG:root:source file portrait_6.jpeg -> dest file portrait_6_7.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 7
+DEBUG:root:source file portrait_6_r.jpeg -> dest file portrait_6_r_7.jpeg
+DEBUG:root:generate art_3.jpeg with quality 7
+DEBUG:root:source file art_3.jpeg -> dest file art_3_7.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 7
+DEBUG:root:source file art_3_r.jpeg -> dest file art_3_r_7.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 7
+DEBUG:root:source file nature_5.jpeg -> dest file nature_5_7.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 7
+DEBUG:root:source file nature_5_r.jpeg -> dest file nature_5_r_7.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 7
+DEBUG:root:source file nature_2.jpeg -> dest file nature_2_7.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 7
+DEBUG:root:source file nature_2_r.jpeg -> dest file nature_2_r_7.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 7
+DEBUG:root:source file nautre_8.jpeg -> dest file nautre_8_7.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 7
+DEBUG:root:source file nautre_8_r.jpeg -> dest file nautre_8_r_7.jpeg
+DEBUG:root:generate art_4.jpeg with quality 7
+DEBUG:root:source file art_4.jpeg -> dest file art_4_7.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 7
+DEBUG:root:source file art_4_r.jpeg -> dest file art_4_r_7.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 7
+DEBUG:root:source file portrait_1.jpeg -> dest file portrait_1_7.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 7
+DEBUG:root:source file portrait_1_r.jpeg -> dest file portrait_1_r_7.jpeg
+DEBUG:root:generate art_8.jpeg with quality 7
+DEBUG:root:source file art_8.jpeg -> dest file art_8_7.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 7
+DEBUG:root:source file art_8_r.jpeg -> dest file art_8_r_7.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 7
+DEBUG:root:source file portrait_10.jpeg -> dest file portrait_10_7.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 7
+DEBUG:root:source file portrait_10_r.jpeg -> dest file portrait_10_r_7.jpeg
+DEBUG:root:generate art_9.jpeg with quality 7
+DEBUG:root:source file art_9.jpeg -> dest file art_9_7.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 7
+DEBUG:root:source file art_9_r.jpeg -> dest file art_9_r_7.jpeg
+DEBUG:root:generate art_5.jpeg with quality 7
+DEBUG:root:source file art_5.jpeg -> dest file art_5_7.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 7
+DEBUG:root:source file art_5_r.jpeg -> dest file art_5_r_7.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 7
+DEBUG:root:source file nautre_9.jpeg -> dest file nautre_9_7.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 7
+DEBUG:root:source file nautre_9_r.jpeg -> dest file nautre_9_r_7.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 7
+DEBUG:root:source file nature_3.jpeg -> dest file nature_3_7.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 7
+DEBUG:root:source file nature_3_r.jpeg -> dest file nature_3_r_7.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 4
+DEBUG:root:source file portrait_3.jpeg -> dest file portrait_3_4.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 4
+DEBUG:root:source file portrait_3_r.jpeg -> dest file portrait_3_r_4.jpeg
+DEBUG:root:generate art_6.jpeg with quality 4
+DEBUG:root:source file art_6.jpeg -> dest file art_6_4.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 4
+DEBUG:root:source file art_6_r.jpeg -> dest file art_6_r_4.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 4
+DEBUG:root:source file nature_1.jpeg -> dest file nature_1_4.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 4
+DEBUG:root:source file nature_1_r.jpeg -> dest file nature_1_r_4.jpeg
+DEBUG:root:generate art_7.jpeg with quality 4
+DEBUG:root:source file art_7.jpeg -> dest file art_7_4.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 4
+DEBUG:root:source file art_7_r.jpeg -> dest file art_7_r_4.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 4
+DEBUG:root:source file nature_10.jpeg -> dest file nature_10_4.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 4
+DEBUG:root:source file nature_10_r.jpeg -> dest file nature_10_r_4.jpeg
+DEBUG:root:generate art_10.jpeg with quality 4
+DEBUG:root:source file art_10.jpeg -> dest file art_10_4.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 4
+DEBUG:root:source file art_10_r.jpeg -> dest file art_10_r_4.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 4
+DEBUG:root:source file portrait_2.jpeg -> dest file portrait_2_4.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 4
+DEBUG:root:source file portrait_2_r.jpeg -> dest file portrait_2_r_4.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 4
+DEBUG:root:source file portrait_9.jpeg -> dest file portrait_9_4.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 4
+DEBUG:root:source file portrait_9_r.jpeg -> dest file portrait_9_r_4.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 4
+DEBUG:root:source file portrait_5.jpeg -> dest file portrait_5_4.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 4
+DEBUG:root:source file portrait_5_r.jpeg -> dest file portrait_5_r_4.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 4
+DEBUG:root:source file nature_6.jpeg -> dest file nature_6_4.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 4
+DEBUG:root:source file nature_6_r.jpeg -> dest file nature_6_r_4.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 4
+DEBUG:root:source file nature_7.jpeg -> dest file nature_7_4.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 4
+DEBUG:root:source file nature_7_r.jpeg -> dest file nature_7_r_4.jpeg
+DEBUG:root:generate art_1.jpeg with quality 4
+DEBUG:root:source file art_1.jpeg -> dest file art_1_4.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 4
+DEBUG:root:source file art_1_r.jpeg -> dest file art_1_r_4.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 4
+DEBUG:root:source file portrait_4.jpeg -> dest file portrait_4_4.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 4
+DEBUG:root:source file portrait_4_r.jpeg -> dest file portrait_4_r_4.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 4
+DEBUG:root:source file portrait_8.jpeg -> dest file portrait_8_4.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 4
+DEBUG:root:source file portrait_8_r.jpeg -> dest file portrait_8_r_4.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 4
+DEBUG:root:source file nature_4.jpeg -> dest file nature_4_4.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 4
+DEBUG:root:source file nature_4_r.jpeg -> dest file nature_4_r_4.jpeg
+DEBUG:root:generate art_2.jpeg with quality 4
+DEBUG:root:source file art_2.jpeg -> dest file art_2_4.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 4
+DEBUG:root:source file art_2_r.jpeg -> dest file art_2_r_4.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 4
+DEBUG:root:source file portrait_7.jpeg -> dest file portrait_7_4.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 4
+DEBUG:root:source file portrait_7_r.jpeg -> dest file portrait_7_r_4.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 4
+DEBUG:root:source file portrait_6.jpeg -> dest file portrait_6_4.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 4
+DEBUG:root:source file portrait_6_r.jpeg -> dest file portrait_6_r_4.jpeg
+DEBUG:root:generate art_3.jpeg with quality 4
+DEBUG:root:source file art_3.jpeg -> dest file art_3_4.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 4
+DEBUG:root:source file art_3_r.jpeg -> dest file art_3_r_4.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 4
+DEBUG:root:source file nature_5.jpeg -> dest file nature_5_4.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 4
+DEBUG:root:source file nature_5_r.jpeg -> dest file nature_5_r_4.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 4
+DEBUG:root:source file nature_2.jpeg -> dest file nature_2_4.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 4
+DEBUG:root:source file nature_2_r.jpeg -> dest file nature_2_r_4.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 4
+DEBUG:root:source file nautre_8.jpeg -> dest file nautre_8_4.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 4
+DEBUG:root:source file nautre_8_r.jpeg -> dest file nautre_8_r_4.jpeg
+DEBUG:root:generate art_4.jpeg with quality 4
+DEBUG:root:source file art_4.jpeg -> dest file art_4_4.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 4
+DEBUG:root:source file art_4_r.jpeg -> dest file art_4_r_4.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 4
+DEBUG:root:source file portrait_1.jpeg -> dest file portrait_1_4.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 4
+DEBUG:root:source file portrait_1_r.jpeg -> dest file portrait_1_r_4.jpeg
+DEBUG:root:generate art_8.jpeg with quality 4
+DEBUG:root:source file art_8.jpeg -> dest file art_8_4.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 4
+DEBUG:root:source file art_8_r.jpeg -> dest file art_8_r_4.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 4
+DEBUG:root:source file portrait_10.jpeg -> dest file portrait_10_4.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 4
+DEBUG:root:source file portrait_10_r.jpeg -> dest file portrait_10_r_4.jpeg
+DEBUG:root:generate art_9.jpeg with quality 4
+DEBUG:root:source file art_9.jpeg -> dest file art_9_4.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 4
+DEBUG:root:source file art_9_r.jpeg -> dest file art_9_r_4.jpeg
+DEBUG:root:generate art_5.jpeg with quality 4
+DEBUG:root:source file art_5.jpeg -> dest file art_5_4.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 4
+DEBUG:root:source file art_5_r.jpeg -> dest file art_5_r_4.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 4
+DEBUG:root:source file nautre_9.jpeg -> dest file nautre_9_4.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 4
+DEBUG:root:source file nautre_9_r.jpeg -> dest file nautre_9_r_4.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 4
+DEBUG:root:source file nature_3.jpeg -> dest file nature_3_4.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 4
+DEBUG:root:source file nature_3_r.jpeg -> dest file nature_3_r_4.jpeg
+DEBUG:root:generated images #3
+DEBUG:root:saved files
+DEBUG:root:./img_out/20_12_7_4/portrait_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_4.jpeg
+DEBUG:root:saved images #300
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 17; new: 17
+DEBUG:parso.python.diff:-> code[equal] old[1:15] new[1:15]
+DEBUG:parso.python.diff:copy old[2:16] new[1:5]
+DEBUG:parso.python.diff:parse_part from 6 to 17 (to 16 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[16:17] new[16:17]
+DEBUG:parso.python.diff:diff parser end
+DEBUG:root:filenames: 
+DEBUG:root:./images_joh/edit/all/portrait_3.jpeg
+DEBUG:root:./images_joh/edit/all/art_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_7.jpeg
+DEBUG:root:./images_joh/edit/all/nature_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_10.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_9.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_6.jpeg
+DEBUG:root:./images_joh/edit/all/nature_7.jpeg
+DEBUG:root:./images_joh/edit/all/art_1.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_8.jpeg
+DEBUG:root:./images_joh/edit/all/nature_4.jpeg
+DEBUG:root:./images_joh/edit/all/art_2.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_7.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_6.jpeg
+DEBUG:root:./images_joh/edit/all/art_3.jpeg
+DEBUG:root:./images_joh/edit/all/nature_5.jpeg
+DEBUG:root:./images_joh/edit/all/nature_2.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_8.jpeg
+DEBUG:root:./images_joh/edit/all/art_4.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_1.jpeg
+DEBUG:root:./images_joh/edit/all/art_8.jpeg
+DEBUG:root:./images_joh/edit/all/portrait_10.jpeg
+DEBUG:root:./images_joh/edit/all/art_9.jpeg
+DEBUG:root:./images_joh/edit/all/art_5.jpeg
+DEBUG:root:./images_joh/edit/all/nautre_9.jpeg
+DEBUG:root:./images_joh/edit/all/nature_3.jpeg
+DEBUG:root:read images #30
+DEBUG:root:pre: 1
+DEBUG:root:sigmas: [20, 12, 7, 4]
+DEBUG:root:sigmas_str: 20_12_7_4
+DEBUG:root:generating jpgs...
+DEBUG:root:generate portrait_3.jpeg with quality 20
+DEBUG:root:source file: portrait_3.jpeg
+DEBUG:root:dest file:   portrait_3_20.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 20
+DEBUG:root:source file: portrait_3_r.jpeg
+DEBUG:root:dest file:   portrait_3_r_20.jpeg
+DEBUG:root:generate art_6.jpeg with quality 20
+DEBUG:root:source file: art_6.jpeg
+DEBUG:root:dest file:   art_6_20.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 20
+DEBUG:root:source file: art_6_r.jpeg
+DEBUG:root:dest file:   art_6_r_20.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 20
+DEBUG:root:source file: nature_1.jpeg
+DEBUG:root:dest file:   nature_1_20.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 20
+DEBUG:root:source file: nature_1_r.jpeg
+DEBUG:root:dest file:   nature_1_r_20.jpeg
+DEBUG:root:generate art_7.jpeg with quality 20
+DEBUG:root:source file: art_7.jpeg
+DEBUG:root:dest file:   art_7_20.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 20
+DEBUG:root:source file: art_7_r.jpeg
+DEBUG:root:dest file:   art_7_r_20.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 20
+DEBUG:root:source file: nature_10.jpeg
+DEBUG:root:dest file:   nature_10_20.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 20
+DEBUG:root:source file: nature_10_r.jpeg
+DEBUG:root:dest file:   nature_10_r_20.jpeg
+DEBUG:root:generate art_10.jpeg with quality 20
+DEBUG:root:source file: art_10.jpeg
+DEBUG:root:dest file:   art_10_20.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 20
+DEBUG:root:source file: art_10_r.jpeg
+DEBUG:root:dest file:   art_10_r_20.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 20
+DEBUG:root:source file: portrait_2.jpeg
+DEBUG:root:dest file:   portrait_2_20.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 20
+DEBUG:root:source file: portrait_2_r.jpeg
+DEBUG:root:dest file:   portrait_2_r_20.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 20
+DEBUG:root:source file: portrait_9.jpeg
+DEBUG:root:dest file:   portrait_9_20.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 20
+DEBUG:root:source file: portrait_9_r.jpeg
+DEBUG:root:dest file:   portrait_9_r_20.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 20
+DEBUG:root:source file: portrait_5.jpeg
+DEBUG:root:dest file:   portrait_5_20.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 20
+DEBUG:root:source file: portrait_5_r.jpeg
+DEBUG:root:dest file:   portrait_5_r_20.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 20
+DEBUG:root:source file: nature_6.jpeg
+DEBUG:root:dest file:   nature_6_20.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 20
+DEBUG:root:source file: nature_6_r.jpeg
+DEBUG:root:dest file:   nature_6_r_20.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 20
+DEBUG:root:source file: nature_7.jpeg
+DEBUG:root:dest file:   nature_7_20.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 20
+DEBUG:root:source file: nature_7_r.jpeg
+DEBUG:root:dest file:   nature_7_r_20.jpeg
+DEBUG:root:generate art_1.jpeg with quality 20
+DEBUG:root:source file: art_1.jpeg
+DEBUG:root:dest file:   art_1_20.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 20
+DEBUG:root:source file: art_1_r.jpeg
+DEBUG:root:dest file:   art_1_r_20.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 20
+DEBUG:root:source file: portrait_4.jpeg
+DEBUG:root:dest file:   portrait_4_20.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 20
+DEBUG:root:source file: portrait_4_r.jpeg
+DEBUG:root:dest file:   portrait_4_r_20.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 20
+DEBUG:root:source file: portrait_8.jpeg
+DEBUG:root:dest file:   portrait_8_20.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 20
+DEBUG:root:source file: portrait_8_r.jpeg
+DEBUG:root:dest file:   portrait_8_r_20.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 20
+DEBUG:root:source file: nature_4.jpeg
+DEBUG:root:dest file:   nature_4_20.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 20
+DEBUG:root:source file: nature_4_r.jpeg
+DEBUG:root:dest file:   nature_4_r_20.jpeg
+DEBUG:root:generate art_2.jpeg with quality 20
+DEBUG:root:source file: art_2.jpeg
+DEBUG:root:dest file:   art_2_20.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 20
+DEBUG:root:source file: art_2_r.jpeg
+DEBUG:root:dest file:   art_2_r_20.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 20
+DEBUG:root:source file: portrait_7.jpeg
+DEBUG:root:dest file:   portrait_7_20.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 20
+DEBUG:root:source file: portrait_7_r.jpeg
+DEBUG:root:dest file:   portrait_7_r_20.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 20
+DEBUG:root:source file: portrait_6.jpeg
+DEBUG:root:dest file:   portrait_6_20.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 20
+DEBUG:root:source file: portrait_6_r.jpeg
+DEBUG:root:dest file:   portrait_6_r_20.jpeg
+DEBUG:root:generate art_3.jpeg with quality 20
+DEBUG:root:source file: art_3.jpeg
+DEBUG:root:dest file:   art_3_20.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 20
+DEBUG:root:source file: art_3_r.jpeg
+DEBUG:root:dest file:   art_3_r_20.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 20
+DEBUG:root:source file: nature_5.jpeg
+DEBUG:root:dest file:   nature_5_20.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 20
+DEBUG:root:source file: nature_5_r.jpeg
+DEBUG:root:dest file:   nature_5_r_20.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 20
+DEBUG:root:source file: nature_2.jpeg
+DEBUG:root:dest file:   nature_2_20.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 20
+DEBUG:root:source file: nature_2_r.jpeg
+DEBUG:root:dest file:   nature_2_r_20.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 20
+DEBUG:root:source file: nautre_8.jpeg
+DEBUG:root:dest file:   nautre_8_20.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 20
+DEBUG:root:source file: nautre_8_r.jpeg
+DEBUG:root:dest file:   nautre_8_r_20.jpeg
+DEBUG:root:generate art_4.jpeg with quality 20
+DEBUG:root:source file: art_4.jpeg
+DEBUG:root:dest file:   art_4_20.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 20
+DEBUG:root:source file: art_4_r.jpeg
+DEBUG:root:dest file:   art_4_r_20.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 20
+DEBUG:root:source file: portrait_1.jpeg
+DEBUG:root:dest file:   portrait_1_20.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 20
+DEBUG:root:source file: portrait_1_r.jpeg
+DEBUG:root:dest file:   portrait_1_r_20.jpeg
+DEBUG:root:generate art_8.jpeg with quality 20
+DEBUG:root:source file: art_8.jpeg
+DEBUG:root:dest file:   art_8_20.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 20
+DEBUG:root:source file: art_8_r.jpeg
+DEBUG:root:dest file:   art_8_r_20.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 20
+DEBUG:root:source file: portrait_10.jpeg
+DEBUG:root:dest file:   portrait_10_20.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 20
+DEBUG:root:source file: portrait_10_r.jpeg
+DEBUG:root:dest file:   portrait_10_r_20.jpeg
+DEBUG:root:generate art_9.jpeg with quality 20
+DEBUG:root:source file: art_9.jpeg
+DEBUG:root:dest file:   art_9_20.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 20
+DEBUG:root:source file: art_9_r.jpeg
+DEBUG:root:dest file:   art_9_r_20.jpeg
+DEBUG:root:generate art_5.jpeg with quality 20
+DEBUG:root:source file: art_5.jpeg
+DEBUG:root:dest file:   art_5_20.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 20
+DEBUG:root:source file: art_5_r.jpeg
+DEBUG:root:dest file:   art_5_r_20.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 20
+DEBUG:root:source file: nautre_9.jpeg
+DEBUG:root:dest file:   nautre_9_20.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 20
+DEBUG:root:source file: nautre_9_r.jpeg
+DEBUG:root:dest file:   nautre_9_r_20.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 20
+DEBUG:root:source file: nature_3.jpeg
+DEBUG:root:dest file:   nature_3_20.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 20
+DEBUG:root:source file: nature_3_r.jpeg
+DEBUG:root:dest file:   nature_3_r_20.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 12
+DEBUG:root:source file: portrait_3.jpeg
+DEBUG:root:dest file:   portrait_3_12.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 12
+DEBUG:root:source file: portrait_3_r.jpeg
+DEBUG:root:dest file:   portrait_3_r_12.jpeg
+DEBUG:root:generate art_6.jpeg with quality 12
+DEBUG:root:source file: art_6.jpeg
+DEBUG:root:dest file:   art_6_12.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 12
+DEBUG:root:source file: art_6_r.jpeg
+DEBUG:root:dest file:   art_6_r_12.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 12
+DEBUG:root:source file: nature_1.jpeg
+DEBUG:root:dest file:   nature_1_12.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 12
+DEBUG:root:source file: nature_1_r.jpeg
+DEBUG:root:dest file:   nature_1_r_12.jpeg
+DEBUG:root:generate art_7.jpeg with quality 12
+DEBUG:root:source file: art_7.jpeg
+DEBUG:root:dest file:   art_7_12.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 12
+DEBUG:root:source file: art_7_r.jpeg
+DEBUG:root:dest file:   art_7_r_12.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 12
+DEBUG:root:source file: nature_10.jpeg
+DEBUG:root:dest file:   nature_10_12.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 12
+DEBUG:root:source file: nature_10_r.jpeg
+DEBUG:root:dest file:   nature_10_r_12.jpeg
+DEBUG:root:generate art_10.jpeg with quality 12
+DEBUG:root:source file: art_10.jpeg
+DEBUG:root:dest file:   art_10_12.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 12
+DEBUG:root:source file: art_10_r.jpeg
+DEBUG:root:dest file:   art_10_r_12.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 12
+DEBUG:root:source file: portrait_2.jpeg
+DEBUG:root:dest file:   portrait_2_12.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 12
+DEBUG:root:source file: portrait_2_r.jpeg
+DEBUG:root:dest file:   portrait_2_r_12.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 12
+DEBUG:root:source file: portrait_9.jpeg
+DEBUG:root:dest file:   portrait_9_12.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 12
+DEBUG:root:source file: portrait_9_r.jpeg
+DEBUG:root:dest file:   portrait_9_r_12.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 12
+DEBUG:root:source file: portrait_5.jpeg
+DEBUG:root:dest file:   portrait_5_12.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 12
+DEBUG:root:source file: portrait_5_r.jpeg
+DEBUG:root:dest file:   portrait_5_r_12.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 12
+DEBUG:root:source file: nature_6.jpeg
+DEBUG:root:dest file:   nature_6_12.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 12
+DEBUG:root:source file: nature_6_r.jpeg
+DEBUG:root:dest file:   nature_6_r_12.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 12
+DEBUG:root:source file: nature_7.jpeg
+DEBUG:root:dest file:   nature_7_12.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 12
+DEBUG:root:source file: nature_7_r.jpeg
+DEBUG:root:dest file:   nature_7_r_12.jpeg
+DEBUG:root:generate art_1.jpeg with quality 12
+DEBUG:root:source file: art_1.jpeg
+DEBUG:root:dest file:   art_1_12.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 12
+DEBUG:root:source file: art_1_r.jpeg
+DEBUG:root:dest file:   art_1_r_12.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 12
+DEBUG:root:source file: portrait_4.jpeg
+DEBUG:root:dest file:   portrait_4_12.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 12
+DEBUG:root:source file: portrait_4_r.jpeg
+DEBUG:root:dest file:   portrait_4_r_12.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 12
+DEBUG:root:source file: portrait_8.jpeg
+DEBUG:root:dest file:   portrait_8_12.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 12
+DEBUG:root:source file: portrait_8_r.jpeg
+DEBUG:root:dest file:   portrait_8_r_12.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 12
+DEBUG:root:source file: nature_4.jpeg
+DEBUG:root:dest file:   nature_4_12.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 12
+DEBUG:root:source file: nature_4_r.jpeg
+DEBUG:root:dest file:   nature_4_r_12.jpeg
+DEBUG:root:generate art_2.jpeg with quality 12
+DEBUG:root:source file: art_2.jpeg
+DEBUG:root:dest file:   art_2_12.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 12
+DEBUG:root:source file: art_2_r.jpeg
+DEBUG:root:dest file:   art_2_r_12.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 12
+DEBUG:root:source file: portrait_7.jpeg
+DEBUG:root:dest file:   portrait_7_12.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 12
+DEBUG:root:source file: portrait_7_r.jpeg
+DEBUG:root:dest file:   portrait_7_r_12.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 12
+DEBUG:root:source file: portrait_6.jpeg
+DEBUG:root:dest file:   portrait_6_12.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 12
+DEBUG:root:source file: portrait_6_r.jpeg
+DEBUG:root:dest file:   portrait_6_r_12.jpeg
+DEBUG:root:generate art_3.jpeg with quality 12
+DEBUG:root:source file: art_3.jpeg
+DEBUG:root:dest file:   art_3_12.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 12
+DEBUG:root:source file: art_3_r.jpeg
+DEBUG:root:dest file:   art_3_r_12.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 12
+DEBUG:root:source file: nature_5.jpeg
+DEBUG:root:dest file:   nature_5_12.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 12
+DEBUG:root:source file: nature_5_r.jpeg
+DEBUG:root:dest file:   nature_5_r_12.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 12
+DEBUG:root:source file: nature_2.jpeg
+DEBUG:root:dest file:   nature_2_12.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 12
+DEBUG:root:source file: nature_2_r.jpeg
+DEBUG:root:dest file:   nature_2_r_12.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 12
+DEBUG:root:source file: nautre_8.jpeg
+DEBUG:root:dest file:   nautre_8_12.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 12
+DEBUG:root:source file: nautre_8_r.jpeg
+DEBUG:root:dest file:   nautre_8_r_12.jpeg
+DEBUG:root:generate art_4.jpeg with quality 12
+DEBUG:root:source file: art_4.jpeg
+DEBUG:root:dest file:   art_4_12.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 12
+DEBUG:root:source file: art_4_r.jpeg
+DEBUG:root:dest file:   art_4_r_12.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 12
+DEBUG:root:source file: portrait_1.jpeg
+DEBUG:root:dest file:   portrait_1_12.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 12
+DEBUG:root:source file: portrait_1_r.jpeg
+DEBUG:root:dest file:   portrait_1_r_12.jpeg
+DEBUG:root:generate art_8.jpeg with quality 12
+DEBUG:root:source file: art_8.jpeg
+DEBUG:root:dest file:   art_8_12.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 12
+DEBUG:root:source file: art_8_r.jpeg
+DEBUG:root:dest file:   art_8_r_12.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 12
+DEBUG:root:source file: portrait_10.jpeg
+DEBUG:root:dest file:   portrait_10_12.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 12
+DEBUG:root:source file: portrait_10_r.jpeg
+DEBUG:root:dest file:   portrait_10_r_12.jpeg
+DEBUG:root:generate art_9.jpeg with quality 12
+DEBUG:root:source file: art_9.jpeg
+DEBUG:root:dest file:   art_9_12.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 12
+DEBUG:root:source file: art_9_r.jpeg
+DEBUG:root:dest file:   art_9_r_12.jpeg
+DEBUG:root:generate art_5.jpeg with quality 12
+DEBUG:root:source file: art_5.jpeg
+DEBUG:root:dest file:   art_5_12.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 12
+DEBUG:root:source file: art_5_r.jpeg
+DEBUG:root:dest file:   art_5_r_12.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 12
+DEBUG:root:source file: nautre_9.jpeg
+DEBUG:root:dest file:   nautre_9_12.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 12
+DEBUG:root:source file: nautre_9_r.jpeg
+DEBUG:root:dest file:   nautre_9_r_12.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 12
+DEBUG:root:source file: nature_3.jpeg
+DEBUG:root:dest file:   nature_3_12.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 12
+DEBUG:root:source file: nature_3_r.jpeg
+DEBUG:root:dest file:   nature_3_r_12.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 7
+DEBUG:root:source file: portrait_3.jpeg
+DEBUG:root:dest file:   portrait_3_7.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 7
+DEBUG:root:source file: portrait_3_r.jpeg
+DEBUG:root:dest file:   portrait_3_r_7.jpeg
+DEBUG:root:generate art_6.jpeg with quality 7
+DEBUG:root:source file: art_6.jpeg
+DEBUG:root:dest file:   art_6_7.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 7
+DEBUG:root:source file: art_6_r.jpeg
+DEBUG:root:dest file:   art_6_r_7.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 7
+DEBUG:root:source file: nature_1.jpeg
+DEBUG:root:dest file:   nature_1_7.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 7
+DEBUG:root:source file: nature_1_r.jpeg
+DEBUG:root:dest file:   nature_1_r_7.jpeg
+DEBUG:root:generate art_7.jpeg with quality 7
+DEBUG:root:source file: art_7.jpeg
+DEBUG:root:dest file:   art_7_7.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 7
+DEBUG:root:source file: art_7_r.jpeg
+DEBUG:root:dest file:   art_7_r_7.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 7
+DEBUG:root:source file: nature_10.jpeg
+DEBUG:root:dest file:   nature_10_7.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 7
+DEBUG:root:source file: nature_10_r.jpeg
+DEBUG:root:dest file:   nature_10_r_7.jpeg
+DEBUG:root:generate art_10.jpeg with quality 7
+DEBUG:root:source file: art_10.jpeg
+DEBUG:root:dest file:   art_10_7.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 7
+DEBUG:root:source file: art_10_r.jpeg
+DEBUG:root:dest file:   art_10_r_7.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 7
+DEBUG:root:source file: portrait_2.jpeg
+DEBUG:root:dest file:   portrait_2_7.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 7
+DEBUG:root:source file: portrait_2_r.jpeg
+DEBUG:root:dest file:   portrait_2_r_7.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 7
+DEBUG:root:source file: portrait_9.jpeg
+DEBUG:root:dest file:   portrait_9_7.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 7
+DEBUG:root:source file: portrait_9_r.jpeg
+DEBUG:root:dest file:   portrait_9_r_7.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 7
+DEBUG:root:source file: portrait_5.jpeg
+DEBUG:root:dest file:   portrait_5_7.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 7
+DEBUG:root:source file: portrait_5_r.jpeg
+DEBUG:root:dest file:   portrait_5_r_7.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 7
+DEBUG:root:source file: nature_6.jpeg
+DEBUG:root:dest file:   nature_6_7.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 7
+DEBUG:root:source file: nature_6_r.jpeg
+DEBUG:root:dest file:   nature_6_r_7.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 7
+DEBUG:root:source file: nature_7.jpeg
+DEBUG:root:dest file:   nature_7_7.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 7
+DEBUG:root:source file: nature_7_r.jpeg
+DEBUG:root:dest file:   nature_7_r_7.jpeg
+DEBUG:root:generate art_1.jpeg with quality 7
+DEBUG:root:source file: art_1.jpeg
+DEBUG:root:dest file:   art_1_7.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 7
+DEBUG:root:source file: art_1_r.jpeg
+DEBUG:root:dest file:   art_1_r_7.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 7
+DEBUG:root:source file: portrait_4.jpeg
+DEBUG:root:dest file:   portrait_4_7.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 7
+DEBUG:root:source file: portrait_4_r.jpeg
+DEBUG:root:dest file:   portrait_4_r_7.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 7
+DEBUG:root:source file: portrait_8.jpeg
+DEBUG:root:dest file:   portrait_8_7.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 7
+DEBUG:root:source file: portrait_8_r.jpeg
+DEBUG:root:dest file:   portrait_8_r_7.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 7
+DEBUG:root:source file: nature_4.jpeg
+DEBUG:root:dest file:   nature_4_7.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 7
+DEBUG:root:source file: nature_4_r.jpeg
+DEBUG:root:dest file:   nature_4_r_7.jpeg
+DEBUG:root:generate art_2.jpeg with quality 7
+DEBUG:root:source file: art_2.jpeg
+DEBUG:root:dest file:   art_2_7.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 7
+DEBUG:root:source file: art_2_r.jpeg
+DEBUG:root:dest file:   art_2_r_7.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 7
+DEBUG:root:source file: portrait_7.jpeg
+DEBUG:root:dest file:   portrait_7_7.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 7
+DEBUG:root:source file: portrait_7_r.jpeg
+DEBUG:root:dest file:   portrait_7_r_7.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 7
+DEBUG:root:source file: portrait_6.jpeg
+DEBUG:root:dest file:   portrait_6_7.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 7
+DEBUG:root:source file: portrait_6_r.jpeg
+DEBUG:root:dest file:   portrait_6_r_7.jpeg
+DEBUG:root:generate art_3.jpeg with quality 7
+DEBUG:root:source file: art_3.jpeg
+DEBUG:root:dest file:   art_3_7.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 7
+DEBUG:root:source file: art_3_r.jpeg
+DEBUG:root:dest file:   art_3_r_7.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 7
+DEBUG:root:source file: nature_5.jpeg
+DEBUG:root:dest file:   nature_5_7.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 7
+DEBUG:root:source file: nature_5_r.jpeg
+DEBUG:root:dest file:   nature_5_r_7.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 7
+DEBUG:root:source file: nature_2.jpeg
+DEBUG:root:dest file:   nature_2_7.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 7
+DEBUG:root:source file: nature_2_r.jpeg
+DEBUG:root:dest file:   nature_2_r_7.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 7
+DEBUG:root:source file: nautre_8.jpeg
+DEBUG:root:dest file:   nautre_8_7.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 7
+DEBUG:root:source file: nautre_8_r.jpeg
+DEBUG:root:dest file:   nautre_8_r_7.jpeg
+DEBUG:root:generate art_4.jpeg with quality 7
+DEBUG:root:source file: art_4.jpeg
+DEBUG:root:dest file:   art_4_7.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 7
+DEBUG:root:source file: art_4_r.jpeg
+DEBUG:root:dest file:   art_4_r_7.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 7
+DEBUG:root:source file: portrait_1.jpeg
+DEBUG:root:dest file:   portrait_1_7.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 7
+DEBUG:root:source file: portrait_1_r.jpeg
+DEBUG:root:dest file:   portrait_1_r_7.jpeg
+DEBUG:root:generate art_8.jpeg with quality 7
+DEBUG:root:source file: art_8.jpeg
+DEBUG:root:dest file:   art_8_7.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 7
+DEBUG:root:source file: art_8_r.jpeg
+DEBUG:root:dest file:   art_8_r_7.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 7
+DEBUG:root:source file: portrait_10.jpeg
+DEBUG:root:dest file:   portrait_10_7.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 7
+DEBUG:root:source file: portrait_10_r.jpeg
+DEBUG:root:dest file:   portrait_10_r_7.jpeg
+DEBUG:root:generate art_9.jpeg with quality 7
+DEBUG:root:source file: art_9.jpeg
+DEBUG:root:dest file:   art_9_7.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 7
+DEBUG:root:source file: art_9_r.jpeg
+DEBUG:root:dest file:   art_9_r_7.jpeg
+DEBUG:root:generate art_5.jpeg with quality 7
+DEBUG:root:source file: art_5.jpeg
+DEBUG:root:dest file:   art_5_7.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 7
+DEBUG:root:source file: art_5_r.jpeg
+DEBUG:root:dest file:   art_5_r_7.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 7
+DEBUG:root:source file: nautre_9.jpeg
+DEBUG:root:dest file:   nautre_9_7.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 7
+DEBUG:root:source file: nautre_9_r.jpeg
+DEBUG:root:dest file:   nautre_9_r_7.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 7
+DEBUG:root:source file: nature_3.jpeg
+DEBUG:root:dest file:   nature_3_7.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 7
+DEBUG:root:source file: nature_3_r.jpeg
+DEBUG:root:dest file:   nature_3_r_7.jpeg
+DEBUG:root:generate portrait_3.jpeg with quality 4
+DEBUG:root:source file: portrait_3.jpeg
+DEBUG:root:dest file:   portrait_3_4.jpeg
+DEBUG:root:generate portrait_3_r.jpeg with quality 4
+DEBUG:root:source file: portrait_3_r.jpeg
+DEBUG:root:dest file:   portrait_3_r_4.jpeg
+DEBUG:root:generate art_6.jpeg with quality 4
+DEBUG:root:source file: art_6.jpeg
+DEBUG:root:dest file:   art_6_4.jpeg
+DEBUG:root:generate art_6_r.jpeg with quality 4
+DEBUG:root:source file: art_6_r.jpeg
+DEBUG:root:dest file:   art_6_r_4.jpeg
+DEBUG:root:generate nature_1.jpeg with quality 4
+DEBUG:root:source file: nature_1.jpeg
+DEBUG:root:dest file:   nature_1_4.jpeg
+DEBUG:root:generate nature_1_r.jpeg with quality 4
+DEBUG:root:source file: nature_1_r.jpeg
+DEBUG:root:dest file:   nature_1_r_4.jpeg
+DEBUG:root:generate art_7.jpeg with quality 4
+DEBUG:root:source file: art_7.jpeg
+DEBUG:root:dest file:   art_7_4.jpeg
+DEBUG:root:generate art_7_r.jpeg with quality 4
+DEBUG:root:source file: art_7_r.jpeg
+DEBUG:root:dest file:   art_7_r_4.jpeg
+DEBUG:root:generate nature_10.jpeg with quality 4
+DEBUG:root:source file: nature_10.jpeg
+DEBUG:root:dest file:   nature_10_4.jpeg
+DEBUG:root:generate nature_10_r.jpeg with quality 4
+DEBUG:root:source file: nature_10_r.jpeg
+DEBUG:root:dest file:   nature_10_r_4.jpeg
+DEBUG:root:generate art_10.jpeg with quality 4
+DEBUG:root:source file: art_10.jpeg
+DEBUG:root:dest file:   art_10_4.jpeg
+DEBUG:root:generate art_10_r.jpeg with quality 4
+DEBUG:root:source file: art_10_r.jpeg
+DEBUG:root:dest file:   art_10_r_4.jpeg
+DEBUG:root:generate portrait_2.jpeg with quality 4
+DEBUG:root:source file: portrait_2.jpeg
+DEBUG:root:dest file:   portrait_2_4.jpeg
+DEBUG:root:generate portrait_2_r.jpeg with quality 4
+DEBUG:root:source file: portrait_2_r.jpeg
+DEBUG:root:dest file:   portrait_2_r_4.jpeg
+DEBUG:root:generate portrait_9.jpeg with quality 4
+DEBUG:root:source file: portrait_9.jpeg
+DEBUG:root:dest file:   portrait_9_4.jpeg
+DEBUG:root:generate portrait_9_r.jpeg with quality 4
+DEBUG:root:source file: portrait_9_r.jpeg
+DEBUG:root:dest file:   portrait_9_r_4.jpeg
+DEBUG:root:generate portrait_5.jpeg with quality 4
+DEBUG:root:source file: portrait_5.jpeg
+DEBUG:root:dest file:   portrait_5_4.jpeg
+DEBUG:root:generate portrait_5_r.jpeg with quality 4
+DEBUG:root:source file: portrait_5_r.jpeg
+DEBUG:root:dest file:   portrait_5_r_4.jpeg
+DEBUG:root:generate nature_6.jpeg with quality 4
+DEBUG:root:source file: nature_6.jpeg
+DEBUG:root:dest file:   nature_6_4.jpeg
+DEBUG:root:generate nature_6_r.jpeg with quality 4
+DEBUG:root:source file: nature_6_r.jpeg
+DEBUG:root:dest file:   nature_6_r_4.jpeg
+DEBUG:root:generate nature_7.jpeg with quality 4
+DEBUG:root:source file: nature_7.jpeg
+DEBUG:root:dest file:   nature_7_4.jpeg
+DEBUG:root:generate nature_7_r.jpeg with quality 4
+DEBUG:root:source file: nature_7_r.jpeg
+DEBUG:root:dest file:   nature_7_r_4.jpeg
+DEBUG:root:generate art_1.jpeg with quality 4
+DEBUG:root:source file: art_1.jpeg
+DEBUG:root:dest file:   art_1_4.jpeg
+DEBUG:root:generate art_1_r.jpeg with quality 4
+DEBUG:root:source file: art_1_r.jpeg
+DEBUG:root:dest file:   art_1_r_4.jpeg
+DEBUG:root:generate portrait_4.jpeg with quality 4
+DEBUG:root:source file: portrait_4.jpeg
+DEBUG:root:dest file:   portrait_4_4.jpeg
+DEBUG:root:generate portrait_4_r.jpeg with quality 4
+DEBUG:root:source file: portrait_4_r.jpeg
+DEBUG:root:dest file:   portrait_4_r_4.jpeg
+DEBUG:root:generate portrait_8.jpeg with quality 4
+DEBUG:root:source file: portrait_8.jpeg
+DEBUG:root:dest file:   portrait_8_4.jpeg
+DEBUG:root:generate portrait_8_r.jpeg with quality 4
+DEBUG:root:source file: portrait_8_r.jpeg
+DEBUG:root:dest file:   portrait_8_r_4.jpeg
+DEBUG:root:generate nature_4.jpeg with quality 4
+DEBUG:root:source file: nature_4.jpeg
+DEBUG:root:dest file:   nature_4_4.jpeg
+DEBUG:root:generate nature_4_r.jpeg with quality 4
+DEBUG:root:source file: nature_4_r.jpeg
+DEBUG:root:dest file:   nature_4_r_4.jpeg
+DEBUG:root:generate art_2.jpeg with quality 4
+DEBUG:root:source file: art_2.jpeg
+DEBUG:root:dest file:   art_2_4.jpeg
+DEBUG:root:generate art_2_r.jpeg with quality 4
+DEBUG:root:source file: art_2_r.jpeg
+DEBUG:root:dest file:   art_2_r_4.jpeg
+DEBUG:root:generate portrait_7.jpeg with quality 4
+DEBUG:root:source file: portrait_7.jpeg
+DEBUG:root:dest file:   portrait_7_4.jpeg
+DEBUG:root:generate portrait_7_r.jpeg with quality 4
+DEBUG:root:source file: portrait_7_r.jpeg
+DEBUG:root:dest file:   portrait_7_r_4.jpeg
+DEBUG:root:generate portrait_6.jpeg with quality 4
+DEBUG:root:source file: portrait_6.jpeg
+DEBUG:root:dest file:   portrait_6_4.jpeg
+DEBUG:root:generate portrait_6_r.jpeg with quality 4
+DEBUG:root:source file: portrait_6_r.jpeg
+DEBUG:root:dest file:   portrait_6_r_4.jpeg
+DEBUG:root:generate art_3.jpeg with quality 4
+DEBUG:root:source file: art_3.jpeg
+DEBUG:root:dest file:   art_3_4.jpeg
+DEBUG:root:generate art_3_r.jpeg with quality 4
+DEBUG:root:source file: art_3_r.jpeg
+DEBUG:root:dest file:   art_3_r_4.jpeg
+DEBUG:root:generate nature_5.jpeg with quality 4
+DEBUG:root:source file: nature_5.jpeg
+DEBUG:root:dest file:   nature_5_4.jpeg
+DEBUG:root:generate nature_5_r.jpeg with quality 4
+DEBUG:root:source file: nature_5_r.jpeg
+DEBUG:root:dest file:   nature_5_r_4.jpeg
+DEBUG:root:generate nature_2.jpeg with quality 4
+DEBUG:root:source file: nature_2.jpeg
+DEBUG:root:dest file:   nature_2_4.jpeg
+DEBUG:root:generate nature_2_r.jpeg with quality 4
+DEBUG:root:source file: nature_2_r.jpeg
+DEBUG:root:dest file:   nature_2_r_4.jpeg
+DEBUG:root:generate nautre_8.jpeg with quality 4
+DEBUG:root:source file: nautre_8.jpeg
+DEBUG:root:dest file:   nautre_8_4.jpeg
+DEBUG:root:generate nautre_8_r.jpeg with quality 4
+DEBUG:root:source file: nautre_8_r.jpeg
+DEBUG:root:dest file:   nautre_8_r_4.jpeg
+DEBUG:root:generate art_4.jpeg with quality 4
+DEBUG:root:source file: art_4.jpeg
+DEBUG:root:dest file:   art_4_4.jpeg
+DEBUG:root:generate art_4_r.jpeg with quality 4
+DEBUG:root:source file: art_4_r.jpeg
+DEBUG:root:dest file:   art_4_r_4.jpeg
+DEBUG:root:generate portrait_1.jpeg with quality 4
+DEBUG:root:source file: portrait_1.jpeg
+DEBUG:root:dest file:   portrait_1_4.jpeg
+DEBUG:root:generate portrait_1_r.jpeg with quality 4
+DEBUG:root:source file: portrait_1_r.jpeg
+DEBUG:root:dest file:   portrait_1_r_4.jpeg
+DEBUG:root:generate art_8.jpeg with quality 4
+DEBUG:root:source file: art_8.jpeg
+DEBUG:root:dest file:   art_8_4.jpeg
+DEBUG:root:generate art_8_r.jpeg with quality 4
+DEBUG:root:source file: art_8_r.jpeg
+DEBUG:root:dest file:   art_8_r_4.jpeg
+DEBUG:root:generate portrait_10.jpeg with quality 4
+DEBUG:root:source file: portrait_10.jpeg
+DEBUG:root:dest file:   portrait_10_4.jpeg
+DEBUG:root:generate portrait_10_r.jpeg with quality 4
+DEBUG:root:source file: portrait_10_r.jpeg
+DEBUG:root:dest file:   portrait_10_r_4.jpeg
+DEBUG:root:generate art_9.jpeg with quality 4
+DEBUG:root:source file: art_9.jpeg
+DEBUG:root:dest file:   art_9_4.jpeg
+DEBUG:root:generate art_9_r.jpeg with quality 4
+DEBUG:root:source file: art_9_r.jpeg
+DEBUG:root:dest file:   art_9_r_4.jpeg
+DEBUG:root:generate art_5.jpeg with quality 4
+DEBUG:root:source file: art_5.jpeg
+DEBUG:root:dest file:   art_5_4.jpeg
+DEBUG:root:generate art_5_r.jpeg with quality 4
+DEBUG:root:source file: art_5_r.jpeg
+DEBUG:root:dest file:   art_5_r_4.jpeg
+DEBUG:root:generate nautre_9.jpeg with quality 4
+DEBUG:root:source file: nautre_9.jpeg
+DEBUG:root:dest file:   nautre_9_4.jpeg
+DEBUG:root:generate nautre_9_r.jpeg with quality 4
+DEBUG:root:source file: nautre_9_r.jpeg
+DEBUG:root:dest file:   nautre_9_r_4.jpeg
+DEBUG:root:generate nature_3.jpeg with quality 4
+DEBUG:root:source file: nature_3.jpeg
+DEBUG:root:dest file:   nature_3_4.jpeg
+DEBUG:root:generate nature_3_r.jpeg with quality 4
+DEBUG:root:source file: nature_3_r.jpeg
+DEBUG:root:dest file:   nature_3_r_4.jpeg
+DEBUG:root:generated images #240
+DEBUG:root:saved files
+DEBUG:root:./img_out/20_12_7_4/portrait_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_20.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_12.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_7.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_3_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_7_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_6_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_3_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_2_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_4_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_1_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_8_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/portrait_10_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/art_5_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nautre_9_r_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_4.jpeg
+DEBUG:root:./img_out/20_12_7_4/nature_3_r_4.jpeg
+DEBUG:root:saved images #300
