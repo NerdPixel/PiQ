@@ -1,7 +1,7 @@
 import os
 import numpy as np
 
-DIRECTORY = "./final_20_12_7_4/"
+DIRECTORY = "./../img_out/final_20_12_7_4/"
 MIN_DISTANCE = 3
 
 

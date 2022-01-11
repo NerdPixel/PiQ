@@ -54,7 +54,7 @@ Press one number to indicate the perceived image quality\n
 Press ENTER to start
 Press ESC to exit """
 
-instructions_ontrial = """ 1 - Bad ... 5 - Excellent """
+instructions_ontrial = "1 - Bad, 2 - Poor, 3 - Fair, 4 - Good, 5 - Excellent"
 
 
 ## stimulus presentation time variable
@@ -325,6 +325,6 @@ if __name__ == "__main__":
     
     # for fullscreen, use fullscreen=True and give your correct screen resolution in width= and height=
     win = Experiment(caption="Rating experiment - single stimulus assessment", 
-                     vsync=False, height=800, width=1200, fullscreen=False)
+                     vsync=False, height=800, width=800, fullscreen=False)
     pyglet.app.run()
 
