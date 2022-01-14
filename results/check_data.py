@@ -59,5 +59,6 @@ if __name__ == '__main__':
                 sum_resptime(filename)
                 df_list.append(csv_to_df(filename))
 
-    final_df = pd.concat(df_list)
+    final_df = pd.concat(df_list, ignore_index=True)
+#    final_df.drop(final_df.columns[0], axis=1, inplace=True)
     final_df.to_csv('result_final.csv', encoding='utf-8')
