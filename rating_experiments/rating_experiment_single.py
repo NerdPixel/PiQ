@@ -45,12 +45,12 @@ from pyglet.window import key
 
 instructions = """
 Rating experiment - Single stimulus assessment\n
-Press one number to indicate the perceived image quality\n
-1 - Bad
-2 - Poor
-3 - Fair
-4 - Good
-5 - Excellent\n
+Wie stark ist die beobachtete Verzerrung?\n
+1 - Low
+2 - Med-Low
+3 - Med
+4 - Med-High
+5 - High\n
 Press ENTER to start
 Press ESC to exit """
 
