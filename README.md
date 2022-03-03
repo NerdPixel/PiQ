@@ -37,4 +37,19 @@ sns.move_legend(g, "lower center", bbox_to_anchor=(0.5, -0.1), ncol=7,title='Pro
 
 ## 3.1 Witeks Plot
 
+```
+# catplot für alle probanden
+g = sns.catplot(x='response', data=df, hue='category', kind='count',
+                palette='inferno', col='sigma')
+g.set(xlabel='Response', ylabel='#Response')
+plt.tight_layout()
+g.fig.set_dpi(300)
+x_axis = np.arange(-0.5, 4.5, 0.001)
+for ax, sigma in zip(g.axes_dict.values(), sorted(list(df['response'].unique()))):
+    ax.plot(x_axis, norm.pdf(x_axis,sigma-1,0.8)*200+3, ls="--", zorder=100, linewidth=4, color='grey')
+sns.move_legend(g, "center left", bbox_to_anchor=(-0.1, 0.6), ncol=1, title='Category', frameon=True)
+```
+![Plot_Witek](https://user-images.githubusercontent.com/57091589/156609290-058902b3-a186-4b51-8bdc-6a5c5b977c5d.png)
+
+
 # 4. Diskussion
