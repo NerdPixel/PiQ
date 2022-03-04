@@ -1,11 +1,6 @@
 import logging
-import numpy as np
 import pandas as pd
 import os
-
-
-# erst eine variable, dann die andere, dann beide zusammen
-
 
 def check_number_img(csv_file: str):
     df = pd.read_csv('./../rating_experiments/design_rating_single.csv')
@@ -44,7 +39,7 @@ def csv_to_df(csv_file: str):
     df['proband'] = csv_file.split("_")[-1].replace('.csv', '')
     # example: portrait_4_r_4.jpeg -> portrait_4, True, 4
     done_df = df.apply(split_row, axis=1)
-    logging.info('\n' + done_df.head(20).to_string())
+    #logging.info('\n' + done_df.head(20).to_string())
     return done_df
 
 

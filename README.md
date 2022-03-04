@@ -1,4 +1,68 @@
-## Readme
+# 2. Experimentelles Design
+Bei unserem Experiment haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
+Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Beispielbilder, jedes Bild haben wir fünf mal Verzerrt und einmal rotiert und einmal nicht rotiert.
+Daraus ergibt sich also 3 * 10 * 5 * 2  = 300. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
+
+Für die JPG-Kompression haben wir die Implementation der PIL Libary für Python genutzt.
+Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden
+```
+def generate_imgs(f: dict):
+    #f dict of (filename, loaded image)
+    sigmas = [20, 12, 7, 4]
+    size = 1200, 1200
+    logging.debug(f"sigmas: {sigmas}")
+    
+    # generate dir name
+    sigmas_str = map(str, sigmas)
+    sigmas_str = '_'.join(sigmas_str)
+    logging.debug(f"sigmas_str: {sigmas_str}")
+    
+    # create dir
+    path = "./img_out/"+sigmas_str
+    if os.path.isdir(path):
+        os.rmdir(path)
+    os.mkdir(path)
+    
+    # generate jpgs
+    f_jpg = generate_jpg(f.copy(), sigmas)
+    logging.debug("saved files")
+    
+    # save jpgs to file
+    i = 0
+    for file_name, file in f_jpg.items():
+        logging.debug(f'./img_out/{sigmas_str}/'+file_name)
+        im = Image.fromarray(file)
+        im.thumbnail(size, Image.ANTIALIAS)
+        im.save(f'./img_out/{sigmas_str}/'+file_name)
+        i += 1
+    logging.debug(f"saved images #{i}")
+```
+
+```
+def generate_jpg(f, sigmas):
+    f_jpg = f.copy()
+    logging.debug("generating jpgs...")
+    i = 0
+    for sigma in sigmas:
+        for file in f.keys():
+            logging.debug(f"generate {file} with quality {int(sigma)}")
+            im = f[file].copy()
+            buffer = BytesIO()
+            Image.fromarray(im).save(buffer , 'jpeg', quality=int(sigma))
+            im = Image.open(buffer)
+            im = np.array(im)
+            filename = rename_file(file, '_'+str(sigma))
+            f_jpg[filename] = im
+            logging.debug(f"source file: {file}")
+            logging.debug(f"dest file:   {filename}")
+            i += 1
+                      
+    logging.debug(f"generated images #{i}")
+    return f_jpg
+```
+Die generierten Bilder liegen [hier](img_out/final_20_12_7_4) ab. 
+## 2.1 Sanity Check
+
 
 # 3. Ergebnisse
 
