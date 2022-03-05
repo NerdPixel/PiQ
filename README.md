@@ -1,5 +1,5 @@
 # 1. Einleitung
-Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach [cite] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ 
+Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach [1] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ 
 
 # 2. Experimentelles Design
 Bei unserem Experiment haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
@@ -139,3 +139,7 @@ Zu guter letzt könnten die JPEG-Stufen bessere Abstände zueinander haben, so d
 
 
 ## Offene Fragen
+
+## Reference
+[1]	Z. Wang and A. C. Bovik, “Modern image quality assessment,” Synth. Lect. Image Video Multimed. Process., vol. 2, no. 1, p. 12, 2006.
+
