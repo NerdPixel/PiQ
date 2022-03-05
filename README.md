@@ -1,7 +1,11 @@
 # 1. Einleitung
+To do: Überleitung am Ende einfügen
+
 Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach [1] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ 
 
 # 2. Experimentelles Design
+To do: hyperlink zu experiment
+
 Bei unserem Experiment haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
 Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Beispielbilder, jedes Bild haben wir fünf mal Verzerrt und einmal rotiert und einmal nicht rotiert.
 Daraus ergibt sich also 3 * 10 * 5 * 2  = 300. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
@@ -68,6 +72,11 @@ Die generierten Bilder liegen [hier](img_out/final_20_12_7_4) ab.
 
 
 # 3. Ergebnisse
+To do: hyperlinks zu notebooks
+
+To do: Plot Namen ändern
+
+To do: Kommentare im Code englisch _oder_ deutsch
 
 ## 3.1 Johanns Plot
 In der folgenden Abbildung sind auf der x-Achse die Verzerrungsstufen abgebildet und der y-Achse die einzelnen Antwortmöglichkeiten. Die einzelnen Diagramme sind nach Rotation und Bildkategorie aufgeteilt. Es wird also die durchschnittliche Antwort pro Verzerrungsgrad abgebildet, getrennt nach Rotation und Bildkategorie. Die einzelnen farblich getrennten Linien sind das Antwortverhalten jeweils eines Probanden.
