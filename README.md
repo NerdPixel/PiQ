@@ -1,3 +1,6 @@
+# 1. Einleitung
+Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach [cite] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ 
+
 # 2. Experimentelles Design
 Bei unserem Experiment haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
 Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Beispielbilder, jedes Bild haben wir fünf mal Verzerrt und einmal rotiert und einmal nicht rotiert.
