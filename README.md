@@ -1,17 +1,15 @@
 # 1. Einleitung
-To do: Überleitung am Ende einfügen
 
-Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach [1] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ 
+Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach Wang & Bovik [1] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ Die nachfolgende Dokumentation beschreibt den Vorgang wie die Hypothese getestet und die Forschungsfrage beantwortet wurde.
 
 # 2. Experimentelles Design
-To do: hyperlink zu experiment
 
-Bei unserem Experiment haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
+Bei unserem [Experiment](https://github.com/NerdPixel/PiQ/blob/cc3c3b79f3a0d35dc361841364cd1d36b6f7e2d9/rating_experiments/rating_experiment_single.py) haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
 Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Beispielbilder, jedes Bild haben wir fünf mal Verzerrt und einmal rotiert und einmal nicht rotiert.
 Daraus ergibt sich also 3 * 10 * 5 * 2  = 300. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
 
 Für die JPG-Kompression haben wir die Implementation der PIL Libary für Python genutzt.
-Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden
+Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden.
 ```
 def generate_imgs(f: dict):
     #f dict of (filename, loaded image)
@@ -67,7 +65,12 @@ def generate_jpg(f, sigmas):
     logging.debug(f"generated images #{i}")
     return f_jpg
 ```
-Die generierten Bilder liegen [hier](img_out/final_20_12_7_4) ab. 
+Die generierten Bilder sind [hier](img_out/final_20_12_7_4) zu finden. Die nachfolgenden Bilder sind repräsentativ für die drei Inhaltskategorien Portrait, Nature und Art.
+
+<img width="1358" alt="Screenshot 2022-03-13 at 16 13 07" src="https://user-images.githubusercontent.com/57091589/158066579-cbf58a8b-cb67-435d-9455-6e3898257397.png">
+
+
+
 ## 2.1 Sanity Check
 
 
