@@ -65,13 +65,9 @@ def generate_jpg(f, sigmas):
     logging.debug(f"generated images #{i}")
     return f_jpg
 ```
-Die generierten Bilder sind [hier](img_out/final_20_12_7_4) zu finden. Die nachfolgenden Bilder sind repräsentativ für die drei Inhaltskategorien Portrait, Nature und Art.
+Die generierten Bilder sind [hier](img_out/final_20_12_7_4) zu finden. Die nachfolgenden Bilder sind repräsentativ für die drei Inhaltskategorien Portrait, Nature und Art. [Hier](images.md) sind die original Bilder.
 
 <img width="1358" alt="Screenshot 2022-03-13 at 16 13 07" src="https://user-images.githubusercontent.com/57091589/158066579-cbf58a8b-cb67-435d-9455-6e3898257397.png">
-
-
-
-## 2.1 Sanity Check
 
 
 # 3. Ergebnisse
