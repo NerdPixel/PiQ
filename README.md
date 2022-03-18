@@ -148,6 +148,6 @@ Zu guter letzt könnten die JPEG-Stufen bessere Abstände zueinander haben, so d
 
 ## Offene Fragen
 
-## Reference
+## Referenzen
 [1]	Z. Wang and A. C. Bovik, “Modern image quality assessment,” Synth. Lect. Image Video Multimed. Process., vol. 2, no. 1, p. 12, 2006.
 
