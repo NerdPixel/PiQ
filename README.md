@@ -71,7 +71,6 @@ Die generierten Bilder sind [hier](img_out/final_20_12_7_4) zu finden. Die nachf
 
 
 # 3. Ergebnisse
-To do: hyperlinks zu notebooks
 
 ## 3.1 Einigkeit bei Portraits, Unabhängigkeit von Rotation 
 In der folgenden Abbildung sind auf der x-Achse die Verzerrungsstufen abgebildet und der y-Achse die einzelnen Antwortmöglichkeiten. Die einzelnen Diagramme sind nach Rotation und Bildkategorie aufgeteilt. Es wird also die durchschnittliche Antwort pro Verzerrungsgrad abgebildet, getrennt nach Rotation und Bildkategorie. Die einzelnen farblich getrennten Linien sind das Antwortverhalten jeweils eines Probanden.
@@ -128,6 +127,7 @@ for ax, sigma in zip(g.axes_dict.values(), sorted(list(df['response'].unique()))
 sns.move_legend(g, "center left", bbox_to_anchor=(-0.1, 0.6), ncol=1, title='Category', frameon=True)
 ```
 ![Plot_Witek](https://user-images.githubusercontent.com/57091589/156609290-058902b3-a186-4b51-8bdc-6a5c5b977c5d.png)
+Beide Plots und weitere [hier](https://github.com/NerdPixel/PiQ/blob/cc3c3b79f3a0d35dc361841364cd1d36b6f7e2d9/rating_experiments/rating_experiment_single.py).
 
 ## Qualitative Beobachtungen
 Bei den Portraits haben Probanden berichtet, dass die Kompressionsstufe sehr gut am Hintergrunde erkennbar war. Es bildeten sich schon bei niedrigen Kompressionsstufen für JPEG typische Artefakte.
@@ -140,9 +140,6 @@ Es gibt also Evidenz dafür, dass die Hypothese stimmt.
 Eine Kalibrierung des Experiments hätte Ausreißer wie Philipp vorbeugen können.
 Zudem hätten wir mehr Probanden suchen können um mehr Daten zu erheben und so die Aussagekraft des Experiments zu steigern.
 Zu guter letzt könnten die JPEG-Stufen bessere Abstände zueinander haben, so dass einer eindeutigere Zuordnung der Bewertungstufen zu erleichtern.
-
-
-## Offene Fragen
 
 ## Referenzen
 [1]	Z. Wang and A. C. Bovik, “Modern image quality assessment,” Synth. Lect. Image Video Multimed. Process., vol. 2, no. 1, p. 12, 2006.
