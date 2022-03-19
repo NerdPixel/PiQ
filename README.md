@@ -127,7 +127,7 @@ for ax, sigma in zip(g.axes_dict.values(), sorted(list(df['response'].unique()))
 sns.move_legend(g, "center left", bbox_to_anchor=(-0.1, 0.6), ncol=1, title='Category', frameon=True)
 ```
 ![Plot_Witek](https://user-images.githubusercontent.com/57091589/156609290-058902b3-a186-4b51-8bdc-6a5c5b977c5d.png)
-Beide Plots und weitere [hier](https://github.com/NerdPixel/PiQ/blob/cc3c3b79f3a0d35dc361841364cd1d36b6f7e2d9/rating_experiments/rating_experiment_single.py).
+Beide Plots und weitere [hier](https://github.com/NerdPixel/PiQ/blob/main/results/final_plots.ipynb).
 
 ## Qualitative Beobachtungen
 Bei den Portraits haben Probanden berichtet, dass die Kompressionsstufe sehr gut am Hintergrunde erkennbar war. Es bildeten sich schon bei niedrigen Kompressionsstufen für JPEG typische Artefakte.
