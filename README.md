@@ -75,8 +75,6 @@ To do: hyperlinks zu notebooks
 
 To do: Plot Namen ändern
 
-To do: Kommentare im Code englisch _oder_ deutsch
-
 ## 3.1 Johanns Plot
 In der folgenden Abbildung sind auf der x-Achse die Verzerrungsstufen abgebildet und der y-Achse die einzelnen Antwortmöglichkeiten. Die einzelnen Diagramme sind nach Rotation und Bildkategorie aufgeteilt. Es wird also die durchschnittliche Antwort pro Verzerrungsgrad abgebildet, getrennt nach Rotation und Bildkategorie. Die einzelnen farblich getrennten Linien sind das Antwortverhalten jeweils eines Probanden.
 Bei perfektem Antwortverhalten würden wir diese alle auf der grau gestrichelten Linie erwarten.
@@ -94,7 +92,7 @@ df['sigma'] = pd.Categorical(df['sigma'], ["4", "7", "12", "20", "original"])
 df['proband'] = df['proband'].apply(lambda x: x.capitalize())
 
 
-#catplot alle
+#catplot all
 g = sns.catplot(x='sigma', y='response', data=df, col ='category', row='rotation',
                 kind='point', ci='sd',
                 palette='inferno', hue='proband', estimator=np.mean)
@@ -120,7 +118,7 @@ Die Erwartung bei dieser Darstellung ist durch die grau gestrichelte Linie marki
 
 
 ```
-# catplot für alle probanden
+# catplot for all subjects
 g = sns.catplot(x='response', data=df, hue='category', kind='count',
                 palette='inferno', col='sigma')
 g.set(xlabel='Response', ylabel='#Response')
