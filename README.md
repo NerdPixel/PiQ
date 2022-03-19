@@ -73,13 +73,11 @@ Die generierten Bilder sind [hier](img_out/final_20_12_7_4) zu finden. Die nachf
 # 3. Ergebnisse
 To do: hyperlinks zu notebooks
 
-To do: Plot Namen ändern
-
-## 3.1 Johanns Plot
+## 3.1 Einigkeit bei Portraits, Unabhängigkeit von Rotation 
 In der folgenden Abbildung sind auf der x-Achse die Verzerrungsstufen abgebildet und der y-Achse die einzelnen Antwortmöglichkeiten. Die einzelnen Diagramme sind nach Rotation und Bildkategorie aufgeteilt. Es wird also die durchschnittliche Antwort pro Verzerrungsgrad abgebildet, getrennt nach Rotation und Bildkategorie. Die einzelnen farblich getrennten Linien sind das Antwortverhalten jeweils eines Probanden.
 Bei perfektem Antwortverhalten würden wir diese alle auf der grau gestrichelten Linie erwarten.
 
-Die Streuung der Probanden von der optimalen Linie bei Portraits fällt deutlich geringer aus als bei den anderen beiden Kategorien. Besonders gut ist dies an den Extremwerten zu sehen. Es lässt sich jedoch kein Unterschied zwischen den Kurvenverläufen in Abhängigkeit von der Rotation erkennen. Daraus schließen wir, dass die Rotation keinen Einfluss auf die erkennbarkeit von Verzerrungen hat.
+Die Streuung der Probanden von der optimalen Linie bei Portraits fällt deutlich geringer aus als bei den anderen beiden Kategorien. Besonders gut ist dies an den Extremwerten zu sehen. Es lässt sich jedoch kein Unterschied zwischen den Kurvenverläufen in Abhängigkeit von der Rotation erkennen. Daraus schließen wir, dass die Rotation keinen Einfluss auf die Erkennbarkeit von Verzerrungen hat.
 
 
 ```
@@ -112,7 +110,7 @@ sns.move_legend(g, "lower center", bbox_to_anchor=(0.5, -0.1), ncol=7,title='Pro
 ![Plot_Johann](https://user-images.githubusercontent.com/57091589/156608281-ab36d8a7-e1da-473a-849c-2b114fdb4ff3.png)
 
 
-## 3.1 Witeks Plot
+## 3.1 Verzerrungen inhaltlich geläufiger Bilder werden am besten erkannt
 In der folgenden Abbildung sind Histogramme über die einzelnen Antwortmöglichkeiten dargestellt. Jeder einzelne Plot stellt eine mögliche Verzerrungsstufe, von links stärkster zu rechts schwächster. Die einzelnen Balken sind farblich nach Kategorien getrennt.
 Die Erwartung bei dieser Darstellung ist durch die grau gestrichelte Linie markiert. Die Kategorie Portraits folgt am stärksten diesem Schema. Im Gegensatz dazu werden die ungeläufigeren Kategorien (Art, Nature) schlechter bewertet. Daraus folgt, dass Verzerrungen von inhaltlich geläufigen Bildern besonders stark auffallen.
 
