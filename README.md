@@ -6,7 +6,7 @@ Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder d
 
 Bei unserem [Experiment](https://github.com/NerdPixel/PiQ/blob/cc3c3b79f3a0d35dc361841364cd1d36b6f7e2d9/rating_experiments/rating_experiment_single.py) haben wir uns für das Mean Opinion Score (MOS) Verfahren entschieden.
 Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Beispielbilder, jedes Bild haben wir fünf mal Verzerrt und einmal rotiert und einmal nicht rotiert.
-Daraus ergibt sich also 3 * 10 * 5 * 2  = 300. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
+Daraus ergiben sich also 3 * 10 * 5 * 2  = 300 Bilder. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
 
 Für die JPG-Kompression haben wir die Implementation der PIL Libary für Python genutzt.
 Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden. [Hier](PiQ_genreate_final_img.ipynb) ist der Quellcode.
