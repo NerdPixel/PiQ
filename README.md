@@ -9,7 +9,8 @@ Insgesamt haben wir drei Kategorien an Bildern, pro Kategorie haben wir zehn Bei
 Daraus ergibt sich also 3 * 10 * 5 * 2  = 300. Im Vorfeld haben wir die Bilder per Hand auf 1200x1200 Pixel zugeschnitten.
 
 Für die JPG-Kompression haben wir die Implementation der PIL Libary für Python genutzt.
-Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden.
+Als Parameter für die Komprimierung haben wir uns für 20, 12, 7, 4 und Original entschieden. Die Probanden benötigten zwischen 9 bis 21 Minuten für einen gesamten Durchlauf. Insgesamt hatten wir sieben Probanden. [Hier](PiQ_genreate_final_img.ipynb) ist der Quellcode.
+
 ```
 def generate_imgs(f: dict):
     #f dict of (filename, loaded image)
@@ -81,11 +82,12 @@ Die Streuung der Probanden von der optimalen Linie bei Portraits fällt deutlich
 
 ```
 # We import our data from a csv file
-# We order by sigmas
-# We capitalize the names of our subjects 
-
 df = pd.read_csv('result_final.csv', encoding='utf-8')
+
+# We add a custom order for sigmas
 df['sigma'] = pd.Categorical(df['sigma'], ["4", "7", "12", "20", "original"])
+
+# We capitalize the names of our subjects 
 df['proband'] = df['proband'].apply(lambda x: x.capitalize())
 
 
