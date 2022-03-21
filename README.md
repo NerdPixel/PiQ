@@ -1,3 +1,5 @@
+# Nachweisbarkeit einer internernen Referenz bei der menschlichen Bildwahrnehmung
+
 # 1. Einleitung
 
 Die menschliche Bildwahrnehmung lässt sich nicht klar dem Full-Reference oder dem No-Reference Modell nach Wang & Bovik [1] zuweisen. Die gestellte Forschungsfrage lautet: _"Haben Menschen für die Beurteilung von Bildern eine interne Referenz?"_. Eine Ableitung der Forschungsfrage ist folgende Hypothese: _"Wenn Menschen bei der Bildbeurteilung eine interne Referenz benutzen, dann fallen Verzerrungen von Bildern eher bei geläufigen als bei unbekannten Bildern auf."_ Die nachfolgende Dokumentation beschreibt den Vorgang wie die Hypothese getestet und die Forschungsfrage beantwortet wurde.
